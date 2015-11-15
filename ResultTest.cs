@@ -16,7 +16,7 @@ public class ResultTest
         			 result = "Pongpak Aumpaipannasun";
         		        break;
             		case "1550700155":
-                		result = "Thnawat Thumbal";
+                		result = "Thanawat Thumbal";
                 		break;
         		default :
 				break;
