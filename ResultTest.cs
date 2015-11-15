@@ -9,6 +9,10 @@ public class ResultTest
 				result = "Yodsaphon Santad";
 				break;
 			//TODO: Add your student id here...
+			case "1550700445" :
+				result = "Kwanchanok Im-Amornchai";
+				break;
+				
 			default :
 				break;
 		}
@@ -24,6 +28,10 @@ public class ResultTest
 				result = "yodsaphon";
 				break;
 			//TODO: Add your student id here...
+			case "1550700445" :
+				result = "kwanchanok";
+				break;
+			
 			default :
 				break;
 		}
