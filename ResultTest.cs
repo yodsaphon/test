@@ -15,7 +15,10 @@ public class ResultTest
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;
-        		default :
+            case "1550700155":
+                result = "Thnawat Thumbal";
+                break;
+        	default :
 				break;
 		}
 		return result;
@@ -36,7 +39,10 @@ public class ResultTest
         		case "1550700262":
         			result = "Pongpak";
                 		break;
-            		default :
+            case "1550700155":
+                result = "STIKKIK";
+                break;
+            default :
 				break;
 		}
 		return result;
