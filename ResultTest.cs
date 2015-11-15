@@ -12,8 +12,10 @@ public class ResultTest
 			case "1550700445" :
 				result = "Kwanchanok Im-Amornchai";
 				break;
-				
-			default :
+            case "1550700262":
+                result = "Pongpak Aumpaipannasun";
+                break;
+            default :
 				break;
 		}
 		return result;
@@ -31,8 +33,10 @@ public class ResultTest
 			case "1550700445" :
 				result = "kwanchanok";
 				break;
-			
-			default :
+            case "1550700262":
+                result = "Pongpak";
+                break;
+            default :
 				break;
 		}
 		return result;
