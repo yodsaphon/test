@@ -18,6 +18,9 @@ public class ResultTest
             		case "1550700155":
                 		result = "Thanawat Thumbal";
                 		break;
+			case "1550701062":
+                		result = "Parakorn Bungaruang";
+                		break;
         		default :
 				break;
 		}
@@ -41,6 +44,9 @@ public class ResultTest
                 		break;
             		case "1550700155":
                 		result = "STIKKIK";
+                		break;
+			case "1550701062":
+                		result = "parakorn1";
                 		break;
             		default :
 				break;
