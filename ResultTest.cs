@@ -24,6 +24,9 @@ public class ResultTest
                 	case "1550701369":
                 		result = "Yanisa Dangkrue";
                 		break;
+                	case "1550701633":
+                		result = "Jidapa Chanpen";
+                		break;
         		default :
 				break;
 		}
@@ -53,6 +56,9 @@ public class ResultTest
                 		break;
                 	case "1550701369":
                 		result = "jommjomm";
+                		break;
+                	case "1550701633":
+                		result = "nannvip";
                 		break;
             		default :
 				break;
