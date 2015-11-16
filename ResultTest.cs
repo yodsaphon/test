@@ -27,6 +27,10 @@ public class ResultTest
                 	case "1550701633":
                 		result = "Jidapa Chanpen";
                 		break;
+                	case "1550700411";
+                	        result = "Anucha langsui";
+                	        break;
+                		
         		default :
 				break;
 		}
@@ -60,6 +64,9 @@ public class ResultTest
                 	case "1550701633":
                 		result = "nannvip";
                 		break;
+                	case "1550700411";
+                	        result = "toomlangsui";
+                	        break;
             		default :
 				break;
 		}
