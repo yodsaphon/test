@@ -69,7 +69,7 @@ public class ResultTest
                 	        result = "toomlangsui";
                 	        break;
 			Case "150700021"
-				result = "surakit03";
+				result = "surakit003";
             		default :
 				break;
 		}
