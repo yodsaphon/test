@@ -68,7 +68,7 @@ public class ResultTest
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
-			Case "1560700021"
+			Case "1560700021":
 				result = "surakit003";
             		default :
 				break;
