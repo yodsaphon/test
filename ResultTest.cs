@@ -30,7 +30,8 @@ public class ResultTest
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
-                		
+			case "1560700021":
+				result = "Surakit Kornongklang";               		
         		default :
 				break;
 		}
@@ -67,6 +68,8 @@ public class ResultTest
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
+			Case "150700021"
+				result = "surakit003";
             		default :
 				break;
 		}
