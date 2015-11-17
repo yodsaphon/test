@@ -30,6 +30,9 @@ public class ResultTest
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
+			case "1560700013":
+				result = "Suthinan Sonthikhun";   
+				break; 
 			case "1560700021":
 				result = "Surakit Kornongklang";   
 				break;            		
@@ -69,7 +72,10 @@ public class ResultTest
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
-			Case "150700021"
+			Case "1560700013":
+				result = "suthinan";
+				break;
+			Case "1560700021":
 				result = "surakit003";
 				break;
             		default :
