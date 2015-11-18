@@ -35,7 +35,10 @@ public class ResultTest
 				break; 
 			case "1560700021":
 				result = "Surakit Kornongklang";   
-				break;            		
+				break;   
+                        case "1550700023":
+				result = "Nawapon Kamngam";   
+				break;          		
         		default :
 				break;
 		}
@@ -77,6 +80,9 @@ public class ResultTest
 				break;
 			Case "1560700021":
 				result = "surakit003";
+				break;
+                        Case "1550700023":
+				result = "Nwpnk";
 				break;
             		default :
 				break;
