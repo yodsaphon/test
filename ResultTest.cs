@@ -21,9 +21,6 @@ public class ResultTest
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
                 		break;
-                	case "1550701369":
-                		result = "Yanisa Dangkrue";
-                		break;
                 	case "1550701633":
                 		result = "Jidapa Chanpen";
                 		break;
@@ -38,7 +35,10 @@ public class ResultTest
 				break;   
                         case "1550700023":
 				result = "Nawapon Kamngam";   
-				break;          		
+				break;
+			case "1550701369":
+                		result = "Yanisa Dangkrue";
+                		break;          		
         		default :
 				break;
 		}
@@ -66,9 +66,6 @@ public class ResultTest
 			case "1550701062":
                 		result = "parakorn1";
                 		break;
-                	case "1550701369":
-                		result = "jommjomm";
-                		break;
                 	case "1550701633":
                 		result = "nannvip";
                 		break;
@@ -84,6 +81,9 @@ public class ResultTest
                         Case "1550700023":
 				result = "Nwpnk";
 				break;
+			case "1550701369":
+                		result = "jommjomm";
+                		break;
             		default :
 				break;
 		}
