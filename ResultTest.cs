@@ -46,7 +46,7 @@ public class ResultTest
                                 result = "anucha langsui";
                                 break;
 			case “1560700716”;
-				result = “Tanaphat Vilaiprasert”
+				result = “Tanaphat Vilaiprasert”;
 				  break;
         		default :
 				break;
@@ -100,7 +100,7 @@ public class ResultTest
                                 result = "toomlangsui";
                                 break;
 			case “1560700716”;
-				result = “Tanaphat-m”
+				result = “tanaphat-m”;
 				  break;
             		default :
 				break;
