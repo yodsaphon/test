@@ -1,4 +1,4 @@
-public class ResultTest 
+﻿public class ResultTest 
 {
 	public string GetName(string studentId)
 	{
@@ -48,6 +48,11 @@ public class ResultTest
 			case “1560700716”;
 				result = “Tanaphat Vilaiprasert”;
 				  break;
+			case “1560700823”;
+				result = “Kampanon  Manotulakan”;
+				  break;
+
+			
         		default :
 				break;
 		}
@@ -101,6 +106,9 @@ public class ResultTest
                                 break;
 			case “1560700716”;
 				result = “tanaphat-m”;
+				  break;
+			case “1560700823”;
+				result = “kampanon”;
 				  break;
             		default :
 				break;
