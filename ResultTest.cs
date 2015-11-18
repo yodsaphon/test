@@ -38,7 +38,10 @@ public class ResultTest
                 		break;      
 			case "1550701633":
                 		result = "Jidapa Chanpen";
-                		break;    		
+                		break;    
+			case "1550700163":
+				result = "Wongsaphat Praisri";
+				break;		
         		default :
 				break;
 		}
@@ -83,6 +86,9 @@ public class ResultTest
                 		break;
 			case "1550701633":
                 		result = "nannvip";
+                		break;
+			case "1550700163":
+                		result = "nanenoiii";
                 		break;
             		default :
 				break;
