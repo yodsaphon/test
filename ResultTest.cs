@@ -42,6 +42,9 @@ public class ResultTest
 			case "1550700163":
 				result = "Wongsaphat Praisri";
 				break;		
+                        case "1550700411";
+                                result = "anucha langsui";
+                                break;
         		default :
 				break;
 		}
@@ -90,6 +93,9 @@ public class ResultTest
 			case "1550700163":
                 		result = "nanenoiii";
                 		break;
+                        case "1550700411";
+                                result = "toomlangsui";
+                                break;
             		default :
 				break;
 		}
