@@ -45,6 +45,9 @@ public class ResultTest
                         case "1550700411";
                                 result = "anucha langsui";
                                 break;
+			case “1560700716”;
+				result = “Tanaphat Vilaiprasert”
+				  break;
         		default :
 				break;
 		}
@@ -96,6 +99,9 @@ public class ResultTest
                         case "1550700411";
                                 result = "toomlangsui";
                                 break;
+			case “1560700716”;
+				result = “Tanaphat-m”
+				  break;
             		default :
 				break;
 		}
