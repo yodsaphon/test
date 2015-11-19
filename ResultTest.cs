@@ -1,4 +1,4 @@
-public class ResultTest 
+﻿public class ResultTest 
 {
 	public string GetName(string studentId)
 	{
@@ -20,13 +20,7 @@ public class ResultTest
                 		break;
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
-                		break;
-                	case "1550701369":
-                		result = "Yanisa Dangkrue";
-                		break;
-                	case "1550701633":
-                		result = "Jidapa Chanpen";
-                		break;
+                		break;                	
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
@@ -35,7 +29,32 @@ public class ResultTest
 				break; 
 			case "1560700021":
 				result = "Surakit Kornongklang";   
-				break;            		
+				break;   
+			case "1550701369":
+                		result = "Yanisa Dangkrue";
+                		break;      
+			case "1550701633":
+                		result = "Jidapa Chanpen";
+                		break;    
+			case "1550700163":
+				result = "Wongsaphat Praisri";
+				break;		
+                        case "1550700411";
+                                result = "anucha langsui";
+                                break;
+			case “1560700716”;
+				result = “Tanaphat Vilaiprasert”;
+				  break;
+			case “1560700823”;
+				result = “Kampanon  Manotulakan”;
+				  break;
+			case "1550700924";
+                                result = "Udomchai Kositjaroenkul";
+                                break;
+			case "1550700023":
+				result = "Nawapon Kamngam";   
+				break;
+			
         		default :
 				break;
 		}
@@ -62,13 +81,7 @@ public class ResultTest
                 		break;
 			case "1550701062":
                 		result = "parakorn1";
-                		break;
-                	case "1550701369":
-                		result = "jommjomm";
-                		break;
-                	case "1550701633":
-                		result = "nannvip";
-                		break;
+                		break;                	
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
@@ -80,6 +93,30 @@ public class ResultTest
 >>>>>>> ae2f04b81347aab1e972f7b47edabbdf27573c88
 			Case "1560700021":
 				result = "surakit003";
+				break;
+			case "1550701369":
+                		result = "jommjomm";
+                		break;
+			case "1550701633":
+                		result = "nannvip";
+                		break;
+			case "1550700163":
+                		result = "nanenoiii";
+                		break;
+                        case "1550700411";
+                                result = "toomlangsui";
+                                break;
+			case “1560700716”;
+				result = “tanaphat-m”;
+				  break;
+			case “1560700823”;
+				result = “kampanon”;
+				  break;
+			case "1550700924":
+                		result = "udomchai";
+                		break;
+			Case "1550700023":
+				result = "Nwpnk";
 				break;
             		default :
 				break;
