@@ -9,9 +9,6 @@
 				result = "Yodsaphon Santad";
 				break;
 			//TODO: Add your student id here...
-			case "1550700445" :
-				result = "Kwanchanok Im-Amornchai";
-				break;
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;                	
@@ -54,16 +51,33 @@
 			case "1550701633":
                 		result = "Jidapa Chanpen";
                 		break;
+			case "1560700120":
+                		result = "Thanawat Kumpoot";
+                		break;        
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
-                		break;
+                		break;   
+			case "1550700445" :
+						result = "Kwanchanok Im-Amornchai";
+						break;	
 			case "1550700155":
                 		result = "Thanawat Thumbal";
+<<<<<<< HEAD
                 		break;     
 			case "1550700708":
                 		result = "nattapong maungjunthuek";
                 		break;
          	      
+=======
+<<<<<<< HEAD
+                		break;             	                 	      
+=======
+                		break; 
+           	case "1550700262":
+        			    result = "Pongpak Aumpaipannasun";
+        		        break;       
+>>>>>>> a28209136e103056452f1b9fe2e846b46f20ab9f
+>>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
         		default :
 				break;
 		}
@@ -78,13 +92,7 @@
 			case "555555555" :
 				result = "yodsaphon";
 				break;
-			//TODO: Add your student id here...
-			case "1550700445" :
-				result = "kwanchanok";
-				break;
-        		case "1550700262":
-        			result = "Pongpak";
-                		break;     	
+			//TODO: Add your student id here...     	
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
@@ -126,12 +134,25 @@
 			case "1550701062":
                 		result = "parakorn1";
                 		break; 
+            case "1550700262":
+        			    result = "Pongpak";
+                		break;
+			case "1550700445" :
+						result = "kwanchanok";
+						break;	
 			case "1550700155":
                 		result = "STIKKIK";
+<<<<<<< HEAD
                 		break; 
 		        case "1560700708":
                 		result = "thetmm005";
                 		break;          
+=======
+                		break;
+			case "1560700120":
+                		result = "linkinoat";
+                		break;                     
+>>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
             		default :
 				break;
 		}
