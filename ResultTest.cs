@@ -11,10 +11,7 @@
 			//TODO: Add your student id here...
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
-        		        break;
-            		case "1550700155":
-                		result = "Thanawat Thumbal";
-                		break;                	
+        		        break;                	
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
@@ -58,8 +55,12 @@
                 		result = "Parakorn Bungaruang";
                 		break;   
 			case "1550700445" :
-				result = "Kwanchanok Im-Amornchai";
-				break;	
+						result = "Kwanchanok Im-Amornchai";
+						break;	
+			case "1550700155":
+                		result = "Thanawat Thumbal";
+                		break;                	      
+>>>>>>> cdb90890ce6955f68c561edbcf1f58f209246f4e
         		default :
 				break;
 		}
@@ -77,9 +78,6 @@
 			//TODO: Add your student id here...
         		case "1550700262":
         			result = "Pongpak";
-                		break;
-            		case "1550700155":
-                		result = "STIKKIK";
                 		break;     	
                 	case "1550700411";
                 	        result = "toomlangsui";
@@ -123,8 +121,11 @@
                 		result = "parakorn1";
                 		break; 
 			case "1550700445" :
-				result = "kwanchanok";
-				break;				
+						result = "kwanchanok";
+						break;	
+			case "1550700155":
+                		result = "STIKKIK";
+                		break;          
             		default :
 				break;
 		}
