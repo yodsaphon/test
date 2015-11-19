@@ -60,7 +60,6 @@
 			case "1550700445" :
 				result = "Kwanchanok Im-Amornchai";
 				break;	
-				
         		default :
 				break;
 		}
@@ -125,8 +124,7 @@
                 		break; 
 			case "1550700445" :
 				result = "kwanchanok";
-				break;
-				
+				break;				
             		default :
 				break;
 		}
