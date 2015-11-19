@@ -59,7 +59,10 @@
                 		break;
 			case "1550700155":
                 		result = "Thanawat Thumbal";
-                		break;                	      
+                		break;  
+			case "1560700120":
+                		result = "Thanawat Kumpoot";
+                		break;                	                 	      
         		default :
 				break;
 		}
@@ -124,7 +127,10 @@
                 		break; 
 			case "1550700155":
                 		result = "STIKKIK";
-                		break;          
+                		break;
+			case "1560700120":
+                		result = "linkinoat";
+                		break;                     
             		default :
 				break;
 		}
