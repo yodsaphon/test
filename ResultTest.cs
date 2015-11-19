@@ -59,8 +59,10 @@
 						break;	
 			case "1550700155":
                 		result = "Thanawat Thumbal";
-                		break;                	      
->>>>>>> cdb90890ce6955f68c561edbcf1f58f209246f4e
+                		break; 
+           	case "1550700262":
+        			    result = "Pongpak Aumpaipannasun";
+        		        break;       
         		default :
 				break;
 		}
@@ -75,10 +77,7 @@
 			case "555555555" :
 				result = "yodsaphon";
 				break;
-			//TODO: Add your student id here...
-        		case "1550700262":
-        			result = "Pongpak";
-                		break;     	
+			//TODO: Add your student id here...     	
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
@@ -120,6 +119,9 @@
 			case "1550701062":
                 		result = "parakorn1";
                 		break; 
+            case "1550700262":
+        			    result = "Pongpak";
+                		break;
 			case "1550700445" :
 						result = "kwanchanok";
 						break;	
