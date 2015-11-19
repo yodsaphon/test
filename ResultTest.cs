@@ -85,12 +85,9 @@
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
-<<<<<<< HEAD
 			Case "1560700013":
 				result = "suthinan";
 				break;
-=======
->>>>>>> ae2f04b81347aab1e972f7b47edabbdf27573c88
 			Case "1560700021":
 				result = "surakit003";
 				break;
