@@ -104,11 +104,10 @@
                         case "1550700411";
                                 result = "toomlangsui";
                                 break;
-			case “1560700716”;
-				result = “tanaphat-m”;
-				  break;
 			case “1560700823”;
 				result = “kampanon”;
+			case “1560700716”;
+				result = “tanaphat-m”;
 				  break;
             		default :
 				break;
