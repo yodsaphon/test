@@ -17,9 +17,6 @@
         		        break;
             		case "1550700155":
                 		result = "Thanawat Thumbal";
-                		break;
-			case "1550701062":
-                		result = "Parakorn Bungaruang";
                 		break;                	
                 	case "1550700411";
                 	        result = "Anucha langsui";
@@ -59,7 +56,10 @@
                 		break; 
 			case "1550701633":
                 		result = "Jidapa Chanpen";
-                		break;      
+                		break;
+			case "1550701062":
+                		result = "Parakorn Bungaruang";
+                		break;                	      
         		default :
 				break;
 		}
@@ -83,10 +83,7 @@
                 		break;
             		case "1550700155":
                 		result = "STIKKIK";
-                		break;
-			case "1550701062":
-                		result = "parakorn1";
-                		break;                	
+                		break;     	
                 	case "1550700411";
                 	        result = "toomlangsui";
                 	        break;
@@ -125,6 +122,9 @@
 			case "1550701633":
                 		result = "nannvip";
                 		break;
+			case "1550701062":
+                		result = "parakorn1";
+                		break;           
             		default :
 				break;
 		}
