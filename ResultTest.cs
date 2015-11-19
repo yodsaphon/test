@@ -51,7 +51,9 @@
 			case “1560700823”;
 				result = “Kampanon  Manotulakan”;
 				  break;
-
+			case "1550700924";
+                                result = "Udomchai Kositjaroenkul";
+                                break;
 			
         		default :
 				break;
@@ -110,6 +112,9 @@
 			case “1560700823”;
 				result = “kampanon”;
 				  break;
+			case "1550700924":
+                		result = "udomchai";
+                		break;
             		default :
 				break;
 		}
