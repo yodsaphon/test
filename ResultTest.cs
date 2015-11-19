@@ -30,9 +30,6 @@
 			case "1560700021":
 				result = "Surakit Kornongklang";   
 				break;   
-                        case "1550700023":
-				result = "Nawapon Kamngam";   
-				break;
 			case "1550701369":
                 		result = "Yanisa Dangkrue";
                 		break;      
@@ -54,6 +51,9 @@
 			case "1550700924";
                                 result = "Udomchai Kositjaroenkul";
                                 break;
+			case "1550700023":
+				result = "Nawapon Kamngam";   
+				break;
 			
         		default :
 				break;
@@ -91,9 +91,6 @@
 			Case "1560700021":
 				result = "surakit003";
 				break;
-                        Case "1550700023":
-				result = "Nwpnk";
-				break;
 			case "1550701369":
                 		result = "jommjomm";
                 		break;
@@ -115,6 +112,9 @@
 			case "1550700924":
                 		result = "udomchai";
                 		break;
+			Case "1550700023":
+				result = "Nwpnk";
+				break;
             		default :
 				break;
 		}
