@@ -51,6 +51,9 @@
 			case "1550701633":
                 		result = "Jidapa Chanpen";
                 		break;
+			case "1560700120":
+                		result = "Thanawat Kumpoot";
+                		break;        
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
                 		break;   
@@ -59,10 +62,14 @@
 						break;	
 			case "1550700155":
                 		result = "Thanawat Thumbal";
+<<<<<<< HEAD
+                		break;             	                 	      
+=======
                 		break; 
            	case "1550700262":
         			    result = "Pongpak Aumpaipannasun";
         		        break;       
+>>>>>>> a28209136e103056452f1b9fe2e846b46f20ab9f
         		default :
 				break;
 		}
@@ -127,7 +134,10 @@
 						break;	
 			case "1550700155":
                 		result = "STIKKIK";
-                		break;          
+                		break;
+			case "1560700120":
+                		result = "linkinoat";
+                		break;                     
             		default :
 				break;
 		}
