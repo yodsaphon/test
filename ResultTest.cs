@@ -57,12 +57,12 @@
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
                 		break;
-			case "1550700155":
-                		result = "Thanawat Thumbal";
-                		break;  
 			case "1560700120":
                 		result = "Thanawat Kumpoot";
-                		break;                	                 	      
+                		break;        
+			case "1550700155":
+                		result = "Thanawat Thumbal";
+                		break;             	                 	      
         		default :
 				break;
 		}
