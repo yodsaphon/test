@@ -9,12 +9,12 @@
 				result = "Yodsaphon Santad";
 				break;
 			//TODO: Add your student id here...
-			case "1550700445" :
-				result = "Kwanchanok Im-Amornchai";
-				break;
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;
+			case "1550700445" :
+				result = "Kwanchanok Im-Amornchai";
+				break;
             		case "1550700155":
                 		result = "Thanawat Thumbal";
                 		break;
