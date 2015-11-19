@@ -24,12 +24,12 @@
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
-			case "1560700013":
-				result = "Suthinan Sonthikhun";   
-				break; 
 			case "1560700021":
 				result = "Surakit Kornongklang";   
-				break;   
+				break;  
+ 			case "1560700013":
+				result = "Suthinan Sonthikhun";   
+				break; 
 			case "1550700163":
 				result = "Wongsaphat Praisri";
 				break;		
