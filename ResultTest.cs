@@ -29,10 +29,7 @@
 				break; 
 			case "1560700021":
 				result = "Surakit Kornongklang";   
-				break;      
-			case "1550701633":
-                		result = "Jidapa Chanpen";
-                		break;    
+				break;   
 			case "1550700163":
 				result = "Wongsaphat Praisri";
 				break;		
@@ -59,7 +56,10 @@
 				break;
 			case "1550701369":
                 		result = "Yanisa Dangkrue";
-                		break;   
+                		break; 
+			case "1550701633":
+                		result = "Jidapa Chanpen";
+                		break;      
         		default :
 				break;
 		}
@@ -96,9 +96,6 @@
 			Case "1560700021":
 				result = "surakit003";
 				break;
-			case "1550701633":
-                		result = "nannvip";
-                		break;
 			case "1550700163":
                 		result = "nanenoiii";
                 		break;
@@ -125,6 +122,9 @@
 				break;
 			case "1550701369":
                 		result = "jommjomm";
+                		break;
+			case "1550701633":
+                		result = "nannvip";
                 		break;
             		default :
 				break;
