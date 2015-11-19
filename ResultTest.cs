@@ -59,7 +59,11 @@
                 		break;
 			case "1550700155":
                 		result = "Thanawat Thumbal";
-                		break;                	      
+                		break;     
+			case "1550700708":
+                		result = "nattapong maungjunthuek";
+                		break;
+         	      
         		default :
 				break;
 		}
@@ -124,6 +128,9 @@
                 		break; 
 			case "1550700155":
                 		result = "STIKKIK";
+                		break; 
+		        case "1560700708":
+                		result = "thetmm005";
                 		break;          
             		default :
 				break;
