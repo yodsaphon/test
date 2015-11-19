@@ -9,9 +9,6 @@
 				result = "Yodsaphon Santad";
 				break;
 			//TODO: Add your student id here...
-			case "1550700445" :
-				result = "Kwanchanok Im-Amornchai";
-				break;
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;
@@ -59,7 +56,11 @@
                 		break;
 			case "1550701062":
                 		result = "Parakorn Bungaruang";
-                		break;                	      
+                		break;   
+			case "1550700445" :
+				result = "Kwanchanok Im-Amornchai";
+				break;	
+				
         		default :
 				break;
 		}
@@ -75,9 +76,6 @@
 				result = "yodsaphon";
 				break;
 			//TODO: Add your student id here...
-			case "1550700445" :
-				result = "kwanchanok";
-				break;
         		case "1550700262":
         			result = "Pongpak";
                 		break;
@@ -124,7 +122,11 @@
                 		break;
 			case "1550701062":
                 		result = "parakorn1";
-                		break;           
+                		break; 
+			case "1550700445" :
+				result = "kwanchanok";
+				break;
+				
             		default :
 				break;
 		}
