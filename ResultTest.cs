@@ -63,6 +63,13 @@
 			case "1550700155":
                 		result = "Thanawat Thumbal";
 <<<<<<< HEAD
+                		break;     
+			case "1550700708":
+                		result = "nattapong maungjunthuek";
+                		break;
+         	      
+=======
+<<<<<<< HEAD
                 		break;             	                 	      
 =======
                 		break; 
@@ -70,6 +77,7 @@
         			    result = "Pongpak Aumpaipannasun";
         		        break;       
 >>>>>>> a28209136e103056452f1b9fe2e846b46f20ab9f
+>>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
         		default :
 				break;
 		}
@@ -134,10 +142,17 @@
 						break;	
 			case "1550700155":
                 		result = "STIKKIK";
+<<<<<<< HEAD
+                		break; 
+		        case "1560700708":
+                		result = "thetmm005";
+                		break;          
+=======
                 		break;
 			case "1560700120":
                 		result = "linkinoat";
                 		break;                     
+>>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
             		default :
 				break;
 		}
