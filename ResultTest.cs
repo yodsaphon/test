@@ -57,6 +57,9 @@
 			case "1550701005":
 				result = "Siriwan Chanmanee";   
 				break;
+			case "1550700296":
+				result = "Witawat Tunsakunwiwattana";   
+				break;
 			
         		default :
 				break;
@@ -120,6 +123,9 @@
 				break;
 			Case "1550701005":
 				result = "chanmanee";
+				break;
+			Case "1550700296":
+				result = "oppaitype";
 				break;
             		default :
 				break;
