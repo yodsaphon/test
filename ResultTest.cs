@@ -54,6 +54,9 @@
 			case "1550700023":
 				result = "Nawapon Kamngam";   
 				break;
+			case "1550701005":
+				result = "Siriwan Chanmanee";   
+				break;
 			
         		default :
 				break;
@@ -114,6 +117,9 @@
                 		break;
 			Case "1550700023":
 				result = "Nwpnk";
+				break;
+			Case "1550701005":
+				result = "chanmanee";
 				break;
             		default :
 				break;
