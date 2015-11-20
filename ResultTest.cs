@@ -77,7 +77,7 @@
                 		result = "Wongsaphat Praisri";
                 		break;
 			case "1550700411";
-                                result = "anucha langsui";
+                                result = "Anucha Langsui";
                                 break;
                 default :
                         break;
