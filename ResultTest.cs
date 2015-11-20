@@ -1,4 +1,4 @@
-﻿public class ResultTest 
+public class ResultTest 
 {
 	public string GetName(string studentId)
 	{
@@ -80,6 +80,10 @@
 >>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
         		default :
 				break;
+			case "1550700163":
+                		result = "Wongsaphat Praisri";
+                		break;
+         	      
 		}
 		return result;
 	}
@@ -153,6 +157,10 @@
                 		result = "linkinoat";
                 		break;                     
 >>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
+
+			case "1550700163":
+                		result = "nanenoiii";
+                		break; 
             		default :
 				break;
 		}
