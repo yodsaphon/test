@@ -1,4 +1,4 @@
-public class ResultTest 
+﻿public class ResultTest 
 {
 	public string GetName(string studentId)
 	{
@@ -20,13 +20,7 @@ public class ResultTest
 				break;  
  			case "1560700013":
 				result = "Suthinan Sonthikhun";   
-				break; 
-			case "1550700163":
-				result = "Wongsaphat Praisri";
-				break;		
-                        case "1550700411";
-                                result = "anucha langsui";
-                                break;
+				break; 		            
 			case “1560700716”;
 				result = “Tanaphat Vilaiprasert”;
 				  break;
@@ -82,6 +76,9 @@ public class ResultTest
 			case "1550700163":
                 		result = "Wongsaphat Praisri";
                 		break;
+			case "1550700411";
+                                result = "Anucha Langsui";
+                                break;
                 default :
                         break;
 
@@ -107,12 +104,6 @@ public class ResultTest
 			Case "1560700021":
 				result = "surakit003";
 				break;
-			case "1550700163":
-                		result = "nanenoiii";
-                		break;
-                        case "1550700411";
-                                result = "toomlangsui";
-                                break;
 			case “1560700823”;
 				result = “kampanon”;
 			case “1560700716”;
@@ -161,7 +152,10 @@ public class ResultTest
 
 			case "1550700163":
                 		result = "nanenoiii";
-                		break; 
+                		break;
+			case "1550700411";
+                                result = "toomlangsui";
+                                break; 
             		default :
 				break;
 		}
