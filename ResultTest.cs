@@ -27,7 +27,7 @@
 			case “1560700823”;
 				result = “Kampanon  Manotulakan”;
 				  break;
-			case "1550700924";
+			case "1550700924":
                                 result = "Udomchai Kositjaroenkul";
                                 break;
 			case "1550700023":
