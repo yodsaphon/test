@@ -1,0 +1,9 @@
+diff a/ResultTest.cs b/ResultTest.cs	(rejected hunks)
+@@ -82,6 +82,7 @@
+ 			case "1550700411":
+                 	        result = "Anucha langsui";
+                 	        break;
++
+                 default :
+                         break;
+ 
