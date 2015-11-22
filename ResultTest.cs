@@ -69,8 +69,6 @@
            	case "1550700262":
         			    result = "Pongpak Aumpaipannasun";
         		        break;       
->>>>>>> a28209136e103056452f1b9fe2e846b46f20ab9f
->>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
 
 			case "1550700163":
                 		result = "Wongsaphat Praisri";
