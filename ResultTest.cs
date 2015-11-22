@@ -73,6 +73,7 @@
 			case "1550700163":
                 		result = "Wongsaphat Praisri";
                 		break;
+
 			case "1550701369":
                 		result = "Yanisa Dangkrue";
                 		break; 
@@ -148,7 +149,6 @@
 			case "1560700120":
                 		result = "linkinoat";
                 		break;                     
->>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
 
 			case "1550700163":
                 		result = "nanenoiii";
