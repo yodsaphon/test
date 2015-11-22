@@ -51,6 +51,9 @@
 			case "1550700445" :
 						result = "Kwanchanok Im-Amornchai";
 						break;	
+            case "1550700254" :
+						result = "Thannithi Wiwatsunthonkun";
+						break;	
 			case "1550700155":
                 		result = "Thanawat Thumbal";
 <<<<<<< HEAD
@@ -97,6 +100,9 @@
 			//TODO: Add your student id here...     	
 			Case "1560700013":
 				result = "suthinan";
+				break;
+            Case "1550700254":
+				result = "cafefoxboy";
 				break;
 			Case "1560700021":
 				result = "surakit003";
