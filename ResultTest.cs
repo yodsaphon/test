@@ -128,6 +128,11 @@ public class ResultTest
 			Case "1550700296":
 				result = "oppaitype";
 				break;
+
+            case "1550700163":
+                result = "nanenoiii";
+                break;
+
 			case "1550701369":
                 		result = "jommjomm";
                 		break;
@@ -156,9 +161,6 @@ public class ResultTest
                 		result = "linkinoat";
                 		break;
 
-			case "1550700163":
-                		result = "nanenoiii";
-                		break; 
             		default :
 				break;
 		}
