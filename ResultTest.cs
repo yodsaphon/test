@@ -97,10 +97,10 @@
 			case "555555555" :
 				result = "yodsaphon";
 				break;
-			//TODO: Add your student id here...  
+			//TODO: Add your student id here...  			
 			case "1550700445" :
 				result = "kwanchanok";
-				break;				
+				break;	
 			Case "1560700013":
 				result = "suthinan";
 				break;
