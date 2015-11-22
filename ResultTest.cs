@@ -21,9 +21,9 @@
 			case “1560700716”;
 				result = “Tanaphat Vilaiprasert”;
 				  break;
-			case “1560700823”;
-				result = “Kampanon  Manotulakan”;
-				  break;
+			case "1560700823":
+                                result = "Kampanon  Manotulakan";
+                                break;
 			case "1550700924":
                                 result = "Udomchai Kositjaroenkul";
                                 break;
@@ -107,8 +107,9 @@
 			Case "1560700146":
 				result = "sukitpuht";
 				break;
-			case “1560700823”;
-				result = “kampanon”;
+			Case "1560700823":
+				result = "kampanon";
+				break;
 			case “1560700716”;
 				result = “tanaphat-m”;
 				  break;
