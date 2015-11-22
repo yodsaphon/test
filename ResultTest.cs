@@ -12,12 +12,12 @@
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;                	
-                	case "1560700021":
-				result = "Surakit Kornongklang";   
-				break;  
  			case "1560700013":
 				result = "Suthinan Sonthikhun";   
-				break; 		            
+				break; 	
+                	case "1560700021":
+				result = "Surakit Kornongklang";   
+				break;  	            
 			case “1560700716”;
 				result = “Tanaphat Vilaiprasert”;
 				  break;
