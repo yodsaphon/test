@@ -8,10 +8,7 @@
 			case "555555555" :
 				result = "Yodsaphon Santad";
 				break;
-			//TODO: Add your student id here...
-            		case "1550700262":
-        			 result = "Pongpak Aumpaipannasun";
-        		        break;                	
+			//TODO: Add your student id here...                	
                 	case "1550700411";
                 	        result = "Anucha langsui";
                 	        break;
