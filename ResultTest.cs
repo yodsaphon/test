@@ -12,18 +12,18 @@
             		case "1550700262":
         			 result = "Pongpak Aumpaipannasun";
         		        break;                	
-                	case "1560700021":
-				result = "Surakit Kornongklang";   
-				break;  
  			case "1560700013":
 				result = "Suthinan Sonthikhun";   
-				break; 		            
+				break; 	
+                	case "1560700021":
+				result = "Surakit Kornongklang";   
+				break;  	            
 			case “1560700716”;
 				result = “Tanaphat Vilaiprasert”;
 				  break;
-			case “1560700823”;
-				result = “Kampanon  Manotulakan”;
-				  break;
+			case "1560700823":
+                                result = "Kampanon  Manotulakan";
+                                break;
 			case "1550700924":
                                 result = "Udomchai Kositjaroenkul";
                                 break;
@@ -56,7 +56,6 @@
 						break;	
 			case "1550700155":
                 		result = "Thanawat Thumbal";
-<<<<<<< HEAD
                 		break;     
 			case "1550700708":
                 		result = "nattapong maungjunthuek";
@@ -70,12 +69,11 @@
            	case "1550700262":
         			    result = "Pongpak Aumpaipannasun";
         		        break;       
->>>>>>> a28209136e103056452f1b9fe2e846b46f20ab9f
->>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
 
 			case "1550700163":
                 		result = "Wongsaphat Praisri";
                 		break;
+
 			case "1550701369":
                 		result = "Yanisa Dangkrue";
                 		break; 
@@ -110,8 +108,9 @@
 			Case "1560700146":
 				result = "sukitpuht";
 				break;
-			case “1560700823”;
-				result = “kampanon”;
+			Case "1560700823":
+				result = "kampanon";
+				break;
 			case “1560700716”;
 				result = “tanaphat-m”;
 				  break;
@@ -127,6 +126,9 @@
 			Case "1550700296":
 				result = "oppaitype";
 				break;
+			case "1560700120":
+                		result = "linkinoat";
+                		break;
 			case "1550701633":
                 		result = "nannvip";
                 		break;
@@ -141,18 +143,12 @@
 						break;	
 			case "1550700155":
                 		result = "STIKKIK";
-<<<<<<< HEAD
                 		break; 
 		        case "1560700708":
                 		result = "thetmm005";
                 		break;          
 =======
-                		break;
-			case "1560700120":
-                		result = "linkinoat";
-                		break;                     
->>>>>>> 22d15cb304a27ecedc72d23427ad7d922e45065e
-
+                		
 			case "1550700163":
                 		result = "nanenoiii";
                 		break;
@@ -162,6 +158,7 @@
  			case "1550700411":
                 	        result = "toomlangsui";
                 	        break;
+                ---------------
             	default :
 			break;
 		}
